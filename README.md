@@ -13,9 +13,6 @@ Here are the sample outputs of the programs:
 ### Task 3:
 ![Task 3 Output](outputs/task3_Output.png)
 
-### Task 4:
-![Task 4 Output](outputs/task4_Output.png)
-
 ### Task 5:
 ![Task 5 Output](outputs/task5_Output.png)
 
